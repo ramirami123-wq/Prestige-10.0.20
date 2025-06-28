@@ -24,6 +24,12 @@
             "heading_tag": "h3"
           }
         },
+        "liquid_ALCh3w": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<b>🔁 Wear it your way </b>– bend, twist, or loop it into a necklace, choker, or bracelet\n<br><br>\n<b>🧠 Zero styling stress</b> – no clasps, no rules, just mold it to match your outfit\n<br><br>\n<b>💼 One piece = unlimited looks </b>– travel light, style heavy"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -58,6 +64,7 @@
       "block_order": [
         "text_iWzCmb",
         "title",
+        "liquid_ALCh3w",
         "price",
         "buy_buttons",
         "liquid_Ar6TYk",
